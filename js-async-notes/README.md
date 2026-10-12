@@ -6,6 +6,7 @@ Revision notes covering callbacks, Promises, `async/await`, the event loop, Web 
 |---|---|
 | [WRITE-IN-COPY.md](WRITE-IN-COPY.md) | The short version to handwrite in a notebook |
 | [FULL-NOTES.md](FULL-NOTES.md) | Full explanations with a worked example for every idea |
+| [PROMISES-DEEP-DIVE.md](PROMISES-DEEP-DIVE.md) | Everything about Promises: every way to create and use them with `.then` and `await`, errors, parallel vs sequential, loops, Express. Ends with a write-in-your-copy section |
 | [PRACTICE.md](PRACTICE.md) | Questions with answers hidden, to test yourself after each section |
 
 ## Suggested routine
